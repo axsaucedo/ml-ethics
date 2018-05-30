@@ -1,7 +1,7 @@
 <!-- .slide: data-background="images/network-background.jpg" class="background" -->
 
 <h2>The Institute for Ethical AI & ML</h2>
-<h4>Cybersecurity in an AI enabled world</h4>
+<h4>Ethics in AI from a technical perspective</h4>
 <p>
   <br />
   <br />
@@ -17,7 +17,7 @@
 
 
 <h2>The Institute for Ethical AI & ML</h2>
-<h4>Cybersecurity in an AI enabled world</h4>
+<h4>Ethics in AI from a technical perspective</h4>
 
 <table class="bio-table">
   <tr>
@@ -60,27 +60,16 @@
 [NEXT]
 <!-- .slide: data-background="images/network-background.jpg" class="background smallquote" -->
 
-## Cybersecurity in an AI enabled world
+## Ethics in AI from a technical perspective
 
-> The Institute & the Ethical ML Pledge
+> The power of AI
 > <br>
 > <br>
-> Intuition on AI & ML
+> Risks and issues
 >
-> AI-enabled Cyber
-> 
 > Mitigations
-
-#### Followed by a deep dive discussion
-
-[NEXT]
-<!-- .slide: data-background="images/particles.gif" class="background smallquote" -->
-
-### This is by far the
-
-## Biggest burning platform 
-
-# in AI & ML
+> 
+> Workshop
 
 
 [NEXT]
@@ -165,28 +154,7 @@ of AI.
 [NEXT SECTION]
 <!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 
-# 2. Intuition on AI, Machine Learning
-
-[NEXT]
-<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-
-## What you've heard:
-
-* AI is going to take your job
-* It's going to create a new job for you
-* AI is outsmarting all humans
-* Machine learning, deep learning...
-* It's going to kill us all
-
-[NEXT]
-<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-
-## Let's go beyond the hype
-
-The general label for a field of study, specifically
-the study of whatever might answer the question of 
-"What is required for a machine to exhibit intelligence"
-
+# 2. Recap on AI & Machine Learning
 
 [NEXT]
 <!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
@@ -207,24 +175,6 @@ the study of whatever might answer the question of
 
 The main sub-field that currently people refer to when they
 talk about AI is the latter - <font style="color: #00ffda !important">**Machine Learning**</font>
-
-[NEXT]
-<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-
-But machine learning has been there for a long time...
-
-## Then why the hype now?
-
-[NEXT]
-<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-
-## Deep Learning
-
-A branch of Machine Learning that has allowed engineers
-and data scientists build systems that learn from data
-
-#### Very <font style="color: #00ffda">very</font> large amounts of data! 
-
 
 
 [NEXT]
@@ -373,30 +323,8 @@ We now have a system that "knows" how to differentiate triangles from squares
 
 [NEXT]
 <!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-### But triangles and squares are boring...
 
-
-[NEXT]
-<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-What do we do when we have more complex cases?
-
-![perceptron_learning](images/perceptron_learning4.png)
-
-...way more complex!
-
-[NEXT]
-<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-
-We just need more flexible models...
-
-...and more data...
-
-### Much more data!
-
-[NEXT]
-<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-
-### Neural networks!
+### Perceptron algorithm!
 
 Remember our function `f(x) = mx + b`
 
@@ -433,166 +361,103 @@ This gives the function more flexibility
 
 This gives more flexibility for learning
 
-[NEXT]
-<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-#### But this technology has been out there for decades!
-
-## Why the hype now?
-
-[NEXT]
-<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-### Deep Networks &mdash; many hidden layers
-
-![deep_rnn_diagram](images/rnn-deepfeedforward.svg)
-
-## Possible due to backprop!
-
-
-
-[NEXT]
-<!-- .slide: data-transition="slide-in fade-out" data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-![perceptron_learning](images/perceptron_learning1.png)
-
-[NEXT]
-<!-- .slide: data-transition="fade-in" data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-![perceptron_learning](images/perceptron_learning2.png)
-
-[NEXT]
-<!-- .slide: data-transition="fade-in" data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-![perceptron_learning](images/perceptron_learning3.png)
-
-[NEXT]
-<!-- .slide: data-transition="fade-in slide-out" data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-![perceptron_learning](images/perceptron_learning4.png)
-
-
-[NEXT]
-<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-
-# Congratulations
-
-You are now an expert on Machine Learning!
-
-### Let's recap...
-
-[NEXT]
-<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-
-### Let's recap...
-
-* The most popular branch of AI is machine learning
-* Machine learning allows algorithms to learn from data
-* Learning from large datasets allows complex practical use
-* Deep learning is a popular method for scale learning
-
-[NEXT]
-<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-
-<br>
-### And...
-* These methods have been commoditised
-* Computing power has become exponentially cheaper
-* The popularity, research and competition is booming
-
-
 [NEXT SECTION]
 <!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
 
-# 3. Cybersecurity in an AI-enabled world
+# 3. Risks of the unethical use of AI
 
 [NEXT]
 <!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
 
-## What is cybersecurity?
+## AI has a lot of potential
 
-<br>
-The state of being protected against the 
-### criminal or unauthorized 
-use of electronic data and systems, 
-### and 
-the measures taken to achieve this through
-### technologies, processes and controls 
+* Real time optimisation / Predictive analytics
+* Strategic optimisation / Forecasting
+* Radical personalisation
+* Data analysis from (real) big data
+* Automation of operational processes
+* Anomality detection
+* Information retrieval
+* Unstructured data processing
 
-[NEXT]
-<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
-# Cyberattacks
-
-* Malware (Viruses, Ransomware [Wannacry], etc)
-* Phishing
-* Spyware / adware
-* Man in the middle
-* Denial of Service (DoS)
-* Vulnerable Software
 
 [NEXT]
 <!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+## Sectors:
 
-## Most attacks involve
-
-# Social Engineering
-Or the use of deception to manipulate individuals into
-performing tasks or
-divulging confidential information that may be used for fraudulent purposes
+| | | | |
+| - | - | - | - |
+| Automotive | Manufacturing | Consumer | Defense |
+| Agriculture | Energy | Healthcare | Pharma | 
+| Public | Media | Telecom | Transport |
+| Education | Legal | Programming | Construction | 
+| Space | Finance | Security | | 
+| | | | |
 
 
 [NEXT]
 <!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
 
-# Famous Social Engineering
-
-* Associated Press Twitter hijack
-* 2013 Yahoo Customer Account Compromise
-* 2014 Sony Pictures Hack
-* 2011 RSA SecurID Phishing Attack
-* Iran's Stuxnet Flash Drives on the floor
-
-
-[NEXT]
-<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
-
-# It's not about IF
-
-# It's about WHEN
-
+# Implications
+* Large scale automation of processes and people
+* New generation cybersecurity (talk 21st)
+* Improvement in defense (and attack) systems
+* Danger of algorithmic bias (beyond human traits)
+* Disasters due to lack of regulation
+* Dangers of "staying behind" in the AI race
+* Increased efficiency, reduction of cost
 
 
 [NEXT]
 <!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
 
-## Putting it all together
-
-What are the new challenges we'll face with AI systems?
+## Let's have a look
 
 [NEXT]
 <!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
 
 ## Synthetic Face Generation
-<iframe width="560" height="315" data-src="https://www.youtube.com/embed/AmUC4m6w1wo?rel=0&amp;controls=0&amp;showinfo=0&amp;start=18&amp;autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<!--<iframe  data-src="https://www.youtube.com/embed/AmUC4m6w1wo?rel=0&amp;controls=0&amp;showinfo=0&amp;start=18&amp;autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>-->
+<video width="560" height="315" controls >
+  <source src="videos/fakeobama.mp4#t=18" type="video/mp4">
+</video>
 
 [NEXT]
 <!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
 
 ## Synthetic Voice Generation
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" data-src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/318661840&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<!--<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" data-src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/318661840&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>-->
+<video width="560" height="315" controls >
+  <source src="videos/lyrebird.mp3" type="audio/mpeg">
+</video>
 
 
 [NEXT]
 <!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
 ## Using bots on top of voice
-<iframe width="560" height="315" data-src="https://www.youtube.com/embed/bd1mEm2Fy08?rel=0&amp;controls=0&amp;showinfo=0&amp;start=60&amp;autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<!--<iframe width="560" height="315" data-src="https://www.youtube.com/embed/bd1mEm2Fy08?rel=0&amp;controls=0&amp;showinfo=0&amp;start=60&amp;autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>-->
+<video width="560" height="315" controls >
+  <source src="videos/google-duplex.mp4#t=60" type="video/mp4">
+</video>
 
 
 [NEXT]
 <!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
 ## And there's already a global bot industry
-<iframe data-src="https://www.technologyreview.com/s/611123/inside-the-business-model-for-botnets/" style="width: 100%; height: 50vh"></iframe>
+<iframe src="https://www.technologyreview.com/s/611123/inside-the-business-model-for-botnets/" style="width: 100%; height: 50vh"></iframe>
+
 
 
 [NEXT]
 <!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
 
 ## Tricking Machine Learning Classifiers
-<iframe width="560" height="315" data-src="https://www.youtube.com/embed/i1sp4X57TL4?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<!--<iframe width="560" height="315" data-src="https://www.youtube.com/embed/i1sp4X57TL4?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>-->
+<video width="560" height="315" controls >
+  <source src="videos/trick-class.mp4" type="video/mp4">
+</video>
+
+
 
 [NEXT]
 <!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
@@ -603,7 +468,10 @@ What are the new challenges we'll face with AI systems?
 [NEXT]
 ## It becomes a problem with cars...
 <!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
-<iframe width="560" height="315" data-src="https://www.youtube.com/embed/c_5EH3CBtD0?rel=0&amp;controls=1&amp;showinfo=0&amp;start=60&amp;mute=1&amp;autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<!--<iframe width="560" height="315" data-src="https://www.youtube.com/embed/c_5EH3CBtD0?rel=0&amp;controls=1&amp;showinfo=0&amp;start=60&amp;mute=1&amp;autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>-->
+<video width="560" height="315" controls muted>
+  <source src="videos/car.mp4#t=60" type="video/mp4">
+</video>
 
 
 [NEXT]
@@ -663,16 +531,6 @@ What are the new challenges we'll face with AI systems?
 <!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
 
 ## Core ML Applications
-
-* Real time optimisation / Predictive analytics
-* Strategic optimisation / Forecasting
-* Radical personalisation
-* Data analysis from (real) big data
-* Automation of operational processes
-* Anomality detection
-* Information retrieval
-* Unstructured data processing
-
 
 
 [NEXT]
