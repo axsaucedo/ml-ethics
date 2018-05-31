@@ -587,7 +587,7 @@ A machine learning system that predicts life insurance using historical datasets
 <div class="left-col">
 
 <h3>Bad</h3>
-Take first hand predictions
+Using predictions without checks
 
 <br>
 <br>
@@ -598,7 +598,7 @@ Ensure human sign-off process
 </div>
 <div class="right-col">
 
-![line](images/train.gif)
+![line](images/robotfall.gif)
 
 </div>
 
@@ -629,7 +629,7 @@ Understand bias to avoid discrimination
 </div>
 <div class="right-col">
 
-![line](images/train.gif)
+![line](images/duck.gif)
 
 </div>
 
@@ -660,7 +660,7 @@ Understand and address automation implications
 </div>
 <div class="right-col">
 
-![line](images/train.gif)
+![line](images/robot.gif)
 
 </div>
 
@@ -693,7 +693,7 @@ Have an objective, consistent and transparency metric for accuracy
 </div>
 <div class="right-col">
 
-![line](images/train.gif)
+![line](images/dog.gif)
 
 </div>
 
@@ -724,7 +724,7 @@ Store labelled data and changelog of work
 </div>
 <div class="right-col">
 
-![line](images/train.gif)
+![line](images/laptop.gif)
 
 </div>
 
@@ -757,7 +757,7 @@ Have a process to ensure backwards compatibility of features
 </div>
 <div class="right-col">
 
-![line](images/train.gif)
+![line](images/lego.gif)
 
 </div>
 
@@ -784,7 +784,7 @@ Provide comprehensible and transparent overview of storage, ownership and usage 
 </div>
 <div class="right-col">
 
-![line](images/train.gif)
+![line](images/pie.gif)
 
 </div>
 
@@ -811,7 +811,7 @@ Identify and address threats for tricking, circumventing or hacking mathematical
 </div>
 <div class="right-col">
 
-![line](images/train.gif)
+![line](images/hacking.gif)
 
 </div>
 
@@ -827,6 +827,15 @@ none
 <iframe style="height: 50vh; width: 100vw" src="http://ethical.institute"></iframe>
 #### You can sign the pledge at <a href="http://ethical.institute">ethical.institute</a>
 
+
+[NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+
+# Next steps
+
+Applying this thinking into your actual projects 
+
+## #LetsDoThis
 
 
 [NEXT SECTION]
@@ -850,10 +859,10 @@ none
 [NEXT]
 <!-- .slide: data-background="images/network-background.jpg" class="background" -->
 ### Code
-https://github.com/axsauze/ethics-ml-workshop
+https://github.com/axsauze/ml-ethics
 
 ### Slides
-https://axsauze.github.io/ethics-ml-workshop
+https://axsauze.github.io/ml-ethics
 
 
 [NEXT]
