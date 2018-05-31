@@ -811,7 +811,7 @@ Identify and address threats for tricking, circumventing or hacking mathematical
 </div>
 <div class="right-col">
 
-![line](images/hacking.gif)
+<img height=400px src="images/hacking.gif">
 
 </div>
 
@@ -840,7 +840,57 @@ Applying this thinking into your actual projects
 
 [NEXT SECTION]
 <!-- .slide: data-background="images/network-background.jpg" class="background smallest" style="color: white" -->
-# Wrapping up
+# 4. Workshop & Wrapping up
+
+
+[NEXT]
+<!-- .slide: data-background="images/network-background.jpg" class="background smallest" style="color: white" -->
+# Groups 1..n
+* Get together with groups (next up)
+* Pick usecase
+* Pick pledge 
+* Brainstorm "bad" and "better"
+* Share thoughts
+
+
+[NEXT]
+<!-- .slide: data-background="images/network-background.jpg" class="background smallquote" style="color: white"-->
+
+<div class="left-col">
+
+<h2>Usecases</h2>
+
+* Self-driving cars
+<br>
+* Social media app
+<br>
+* Automatic court prediction
+<br>
+* Smart CCTV cameras
+
+</div>
+<div class="right-col">
+
+<h2>Pledges</h2>
+
+1. Augmented vs Artificial
+<br>
+2. Bias & discrimination
+<br>
+3. Job automation
+<br>
+4. Accuracy understanding
+<br>
+5. Audit trail
+<br>
+6. Backwards compatibility
+<br>
+7. Data transparency
+<br>
+8. Cybersecurity
+
+</div>
+
 
 [NEXT]
 <!-- .slide: data-background="images/network-background.jpg" class="background smallquote" -->
