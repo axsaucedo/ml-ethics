@@ -839,12 +839,12 @@ Applying this thinking into your actual projects
 
 
 [NEXT SECTION]
-<!-- .slide: data-background="images/network-background.jpg" class="background smallest" style="color: white" -->
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallest" style="color: white" -->
 # 4. Workshop & Wrapping up
 
 
 [NEXT]
-<!-- .slide: data-background="images/network-background.jpg" class="background smallest" style="color: white" -->
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallest" style="color: white" -->
 # Groups 1..n
 * Get together with groups (next up)
 * Pick usecase
@@ -854,19 +854,23 @@ Applying this thinking into your actual projects
 
 
 [NEXT]
-<!-- .slide: data-background="images/network-background.jpg" class="background smallquote" style="color: white"-->
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallest" style="color: white" -->
 
 <div class="left-col">
 
 <h2>Usecases</h2>
 
-* Self-driving cars
+Self-driving cars
 <br>
-* Social media app
+Emotion detection ads
 <br>
-* Automatic court prediction
+Automatic court prediction
 <br>
-* Smart CCTV cameras
+Smart classrooms
+<br>
+Cameras crime detection
+<br>
+Smart robot waiters
 
 </div>
 <div class="right-col">
