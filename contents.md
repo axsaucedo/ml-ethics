@@ -1,7 +1,7 @@
 <!-- .slide: data-background="images/network-background.jpg" class="background" -->
 
 <h2>The Institute for Ethical AI & ML</h2>
-<h4>Ethics in AI from a technical perspective</h4>
+<h4>A practical framework for Ethical ML</h4>
 <p>
   <br />
   <br />
@@ -17,7 +17,7 @@
 
 
 <h2>The Institute for Ethical AI & ML</h2>
-<h4>Ethics in AI from a technical perspective</h4>
+<h4>A practical framework for Ethical ML</h4>
 
 <table class="bio-table">
   <tr>
@@ -31,7 +31,7 @@
     <td style="float: left; color: white; font-size: 0.7em;">
 
         <br>
-        Head of Deployed Engineering
+        Head of Solution Engineering
         <br>
         <a style="color: cyan" href="http://eigentech.com">Eigen Technologies</a>
         <br>
@@ -60,7 +60,7 @@
 [NEXT]
 <!-- .slide: data-background="images/network-background.jpg" class="background smallquote" -->
 
-## AI Ethics from a practical perspective
+## A practical framework for Ethical ML
 
 > AI/ML Recap
 > <br>
@@ -937,7 +937,7 @@ https://axsauze.github.io/ml-ethics
     <td style="float: left; color: white; font-size: 0.7em;">
 
         <br>
-        Head of Deployed Engineering
+        Head of Solutions Engineering
         <br>
         <a style="color: cyan" href="http://eigentech.com">Eigen Technologies</a>
         <br>
