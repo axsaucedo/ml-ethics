@@ -31,31 +31,42 @@
     <td style="float: left; color: white; font-size: 0.7em;">
 
         <br>
-        Head of Solution Engineering
-        <br>
-        <a style="color: cyan" href="http://eigentech.com">Eigen Technologies</a>
-        <br>
-        <br>
         Chairman
         <br>
         <a style="color: cyan" href="http://ethical.institute">The Institute for Ethical AI & ML</a>
         <br>
         <br>
-        Fellow (AI, Data & ML)
+        AI Fellow / Member
         <br>
-        <a style="color: cyan" href="#">The RSA</a>
+        <a style="color: cyan" href="#">The RSA & EU AI Alliance</a>
         <br>
         <br>
         Advisor
         <br>
-        <a style="color: cyan" href="http://teensinai.com">TeensInAI.com Initiative</a>
+        <a style="color: cyan" href="http://teensinai.com">TeensInAI.com initiative</a>
         <br>
-
+        <br>
+        Head of Solutions Engineering
+        <br>
+        <a style="color: cyan" href="http://eigentech.com">Eigen Technologies</a>
+        <br>
+        <br>
+        
     </td>
   </tr>
   <tr>
   </tr>
 </table>
+
+
+[NEXT]
+<!-- .slide: data-background="images/network-background.jpg" class="background smallquote" -->
+
+#### The Institute for Ethical AI & ML
+<iframe style="height: 50vh; width: 100vw" src="http://ethical.institute"></iframe>
+#### <a href="http://ethical.institute">http://ethical.institute</a>
+
+
 
 [NEXT]
 <!-- .slide: data-background="images/network-background.jpg" class="background smallquote" -->
@@ -319,7 +330,7 @@ This gives more flexibility for learning
 
 [NEXT]
 <!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-## Sectors:
+## And is affecting many Sectors:
 
 | | | | |
 | - | - | - | - |
@@ -334,6 +345,7 @@ This gives more flexibility for learning
 [NEXT]
 <!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 
+# Some technologies can get out of hand
 ## Let's have a look
 
 [NEXT]
@@ -848,7 +860,7 @@ Applying this thinking into your actual projects
 # Groups 1..n
 * Get together with groups (next up)
 * Pick usecase
-* Pick pledge 
+* Pick 2-3 pledges
 * Brainstorm "bad" and "better"
 * Share thoughts
 
@@ -937,26 +949,27 @@ https://axsauze.github.io/ml-ethics
     <td style="float: left; color: white; font-size: 0.7em;">
 
         <br>
-        Head of Solutions Engineering
-        <br>
-        <a style="color: cyan" href="http://eigentech.com">Eigen Technologies</a>
-        <br>
-        <br>
         Chairman
         <br>
         <a style="color: cyan" href="http://ethical.institute">The Institute for Ethical AI & ML</a>
         <br>
         <br>
-        Fellow (AI, Data & ML)
+        AI Fellow / Member
         <br>
-        <a style="color: cyan" href="#">The RSA</a>
+        <a style="color: cyan" href="#">The RSA & EU AI Alliance</a>
         <br>
         <br>
         Advisor
         <br>
         <a style="color: cyan" href="http://teensinai.com">TeensInAI.com initiative</a>
         <br>
-
+        <br>
+        Head of Solutions Engineering
+        <br>
+        <a style="color: cyan" href="http://eigentech.com">Eigen Technologies</a>
+        <br>
+        <br>
+        
     </td>
   </tr>
   <tr>
